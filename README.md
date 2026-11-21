@@ -45,7 +45,7 @@ dim_suppliers – Supplier dimension
 dim_cost_centers – Cost centre dimension
 Project Status
 
-🚧 In Progress – Initial setup
+In Progress – Initial setup
 
 Repository created
 Initial project structure
