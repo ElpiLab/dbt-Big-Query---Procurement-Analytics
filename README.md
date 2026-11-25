@@ -1,6 +1,32 @@
-# dbt-Big-Query---Procurement-Analytics
-A personal data engineering project that demonstrates how procurement data can be transformed into analytics-ready datasets using dbt and Google BigQuery.  The project simulates a procurement environment with suppliers, purchase orders, purchase order items and cost centres.
 
+
+### Setup DBT:
+ dbt-Big-Query---Procurement-Analytics  dbt --version
+## Local Setup (Windows PowerShell)
+
+# Local Development Setup (Windows PowerShell)
+
+This document outlines the steps to set up the local Python environment and install dbt for this Google BigQuery procurement analytics project.
+
+## Prerequisites
+- Python installed on your Windows machine.
+- PowerShell terminal.
+
+## Step-by-Step Setup
+
+**1. Create the virtual environment**
+Navigate to your project folder in PowerShell and run:
+```powershell
+python -m venv dbt-envnow 
+
+activate the environment first:
+
+powershell
+.\dbt-env\Scripts\Activate.ps1
+
+# dbt-Big-Query---Procurement-Analytics
+
+A personal data engineering project that demonstrates how procurement data can be transformed into analytics-ready datasets using dbt and Google BigQuery.  The project simulates a procurement environment with suppliers, purchase orders, purchase order items and cost centres.
 
 
 Procurement Analytics – dbt & BigQuery

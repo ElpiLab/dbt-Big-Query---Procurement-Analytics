@@ -1,2 +1,6 @@
 dbt-bigquery
 pandas
+numpy
+faker
+google-cloud-bigquery
+python-dotenv
